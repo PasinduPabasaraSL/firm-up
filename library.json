@@ -8,6 +8,12 @@
         "ESP32",
         "SHA256"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PasinduPabasaraSL/firm-up"
+    },
+    "license": "MIT",
+    "dependencies": {},
     "frameworks": [
         "arduino"
     ],
