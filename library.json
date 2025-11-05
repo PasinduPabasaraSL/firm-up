@@ -1,0 +1,17 @@
+{
+    "name": "FirmUp",
+    "version": "1.0.0",
+    "author": "Pasindu Pabasara (RootCypher",
+    "description": "OTA updater with SHA256 verification for ESP32",
+    "keywords": [
+        "OTA",
+        "ESP32",
+        "SHA256"
+    ],
+    "frameworks": [
+        "arduino"
+    ],
+    "platforms": [
+        "espressif32"
+    ]
+}
